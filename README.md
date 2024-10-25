@@ -37,7 +37,7 @@ I’m currently focused on building applications that integrate Generative AI te
 - **Cloud-Based Solutions**: Developing scalable applications utilizing AWS services for enhanced performance and reliability.
 
 ## 🌱 Let’s Connect
-I’m always open to new opportunities, collaborations, and discussions. Feel free to connect with me on [LinkedIn](https://linkedin.com/in/yourprofile) or check out my latest work here on GitHub.
+I’m always open to new opportunities, collaborations, and discussions.
 
 ---
 
