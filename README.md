@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] — Full Stack AI Developer
+# 👋 Hi, I'm Saurabh — Full Stack AI Developer
 
 Welcome to my GitHub! I'm a Full Stack Developer with a focus on integrating Generative AI into web applications. My skill set spans front-end, back-end, and GenAI, with a commitment to creating user-centric, intelligent applications and rapid prototypes for practical use cases.
 
