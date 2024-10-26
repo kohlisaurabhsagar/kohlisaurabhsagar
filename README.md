@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Saurabh — Full Stack AI Developer
+# 👋 Hi, I'm Saurabh — Full Stack Developer
 
-Welcome to my GitHub! I'm a Full Stack AI Developer passionate about creating innovative applications that leverage Generative AI technologies and AWS cloud services. I specialize in building user-friendly, efficient solutions that integrate the latest in AI and cloud computing.
+Welcome to my GitHub! I'm a Full Stack Developer passionate about creating innovative applications that leverage Generative AI technologies and AWS cloud services. I specialize in building user-friendly, efficient solutions that integrate the latest in AI and cloud computing.
 
 ## 🔧 Tech Stack
 
