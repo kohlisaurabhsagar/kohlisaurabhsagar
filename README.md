@@ -6,7 +6,7 @@ Additionally, I have experience developing frontend applications using ReactJS, 
 
 ---
 
-## Tech Stack
+## Technologies Explored
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
