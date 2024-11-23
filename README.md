@@ -1,8 +1,8 @@
 ## Hello World!
 
-Welcome to my GitHub profile! I specialize in building scalable backend applications with Python (Django, FastAPI), Go, and cloud services. I am also working on exploring and integrating Generative AI-based applications into projects.
+Welcome to my GitHub profile! I specialize in building scalable backend applications with Python (Django, FastAPI) and cloud services. I am also working on exploring and integrating Generative AI-based applications into projects.
 
-Additionally, I have experience developing frontend applications using ReactJS, TailwindCSS, and ShadCN UI. I am currently learning low-level programming through C, C++, and Rust.
+Additionally, I have experience developing frontend applications using ReactJS, TailwindCSS, and ShadCN UI. 
 
 ---
 
