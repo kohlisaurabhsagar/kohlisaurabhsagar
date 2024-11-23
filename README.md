@@ -1,4 +1,4 @@
-## Hi, 
+## Hello World!
 
 Welcome to my GitHub profile! I specialize in building scalable backend applications with Python (Django, FastAPI), Go, and cloud services. I am also working on exploring and integrating Generative AI-based applications into projects.
 
